@@ -4,9 +4,13 @@ package principal;
 import javax.swing.JOptionPane;
 import model.Triangulo;
 
+/**
+ *
+ * @author Jonny
+ */
 public class Principal {
     public static void main(String[] args) {
-        //declara ae intancia o objeto
+        //declara e intancia o objeto
         Triangulo trill = new Triangulo();
         
         //entrada
